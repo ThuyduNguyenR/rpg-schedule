@@ -1,10 +1,10 @@
-HOST="" # host for web frontend
+HOST="schethuyler.herokuapp.com" # host for web frontend
 CLIENT_ID="813916191302352946" # discord
 CLIENT_SECRET="e-LhSDHYBwgo_gAk80QEGrE2-8Ckaubt" # discord
 TOKEN="ODEzOTE2MTkxMzAyMzUyOTQ2.YDWQhQ.wuYlDjicSsSiAkOGEGrOniutpm0" # discord bot token
 SITE=dev
 PATREON_API_ACCESS_TOKEN=""
 PATREON_CAMPAIGN_ID=""
-MONGODB_URL="mongodb+srv://tootinpooch:thuydu01@cluster0.57sg6.mongodb.net/scheduler?retryWrites=true&w=majority"
+MONGODB_URL="mongodb+srv://tootinpooch:thuydu01@cluster0.57sg6.mongodb.net/personal.scheduler?retryWrites=true&w=majority"
 DISCORD_LOGIC=true
 MAINTENANCE=false
