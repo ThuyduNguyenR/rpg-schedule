@@ -5,6 +5,6 @@ TOKEN="ODEzOTE2MTkxMzAyMzUyOTQ2.YDWQhQ.wuYlDjicSsSiAkOGEGrOniutpm0" # discord bo
 SITE=dev
 PATREON_API_ACCESS_TOKEN=""
 PATREON_CAMPAIGN_ID=""
-MONGODB_URL="mongodb+srv://tootinpooch:thuydu01@cluster0.57sg6.mongodb.net/personal.scheduler?retryWrites=true&w=majority"
+MONGODB_URL="mongodb+srv://tootinpooch:thuydu01@cluster0.57sg6.mongodb.net/scheduler?retryWrites=true&w=majority"
 DISCORD_LOGIC=true
 MAINTENANCE=false
